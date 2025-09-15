@@ -1,0 +1,8 @@
+* {
+    font-family: Arial;
+}
+
+p {
+    max-width: 400px;
+    text-align: justify;
+}
