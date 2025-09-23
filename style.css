@@ -16,9 +16,9 @@
   --transition: 0.3s ease;
   --gradient: linear-gradient(
     135deg,
-    rgba(255, 105, 180, 0.25),
-    rgba(138, 43, 226, 0.25),
-    rgba(255, 165, 0, 0.25)
+    rgba(0, 72, 253, 0.636),
+    rgba(3, 105, 207, 0.333),
+    rgba(47, 158, 183, 0.595)
   );
 }
 
@@ -82,7 +82,7 @@ nav {
   gap: 15px;
   transition: max-height var(--transition), opacity var(--transition);
 }
-a {
+a, .phone {
   text-decoration: none;
   font-size: 14px;
   color: rgba(255,255,255,0.85);
